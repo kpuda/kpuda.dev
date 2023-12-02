@@ -1,4 +1,4 @@
-baseURL: "https://kpuda.github.io/kpuda.github.io"
+baseURL: "https://www.kpuda.dev"
 languageCode: "en-us"
 title: "kpuda_"
 theme: hugo-profile
