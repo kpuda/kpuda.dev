@@ -1,4 +1,4 @@
-# baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://kpuda.github.io/kpuda.github.io"
 languageCode: "en-us"
 title: "kpuda_"
 theme: hugo-profile
@@ -29,11 +29,11 @@ Menus:
       title: Mentorship
       url: /mentorship
       weight: 1
-#     - identifier: gallery
-#       name: Gallery
-#       title: Blog posts
-#       url: /gallery
-#       weight: 2
+    #     - identifier: gallery
+    #       name: Gallery
+    #       title: Blog posts
+    #       url: /gallery
+    #       weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -110,8 +110,8 @@ params:
     disableSearch: true
     searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     menus:
       disableAbout: false
       disableExperience: false
@@ -132,8 +132,8 @@ params:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
-    # todo
-      enable: true 
+      # todo
+      enable: true
       name: "Resume"
       url: "/cv.pdf"
       download: true
@@ -158,7 +158,7 @@ params:
       I am software developer with a passion for computer science. I love programming after hours and doing side projects just to expand my knowledge. 
       
       Besides programming my hobbies include various outdoor activities such as mountainbiking, rock climbing, freeride skitouring or serving neapolitan pizzas to my friends.
-    
+      
       On daily basis I work with various technologies such as Java, Spring Boot, Big Data stuff, SQL, NoSQL, Containerization and cloud things. 
     # skills:
     #   enable: false
