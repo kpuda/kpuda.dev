@@ -199,7 +199,7 @@ params:
       - job: "Java Developer"
         company: "ING Hubs"
         companyUrl: "https://inghubspoland.com/"
-        date: "Jan 2021 - Mar 2022"
+        date: "Jan 2022 - Mar 2023"
         info:
           enable: false
         content: |
